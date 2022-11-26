@@ -1,12 +1,12 @@
 <html>
   <body>
-    <h1 style="text-align:center">👋 Hi, I’m <i>bookdragon2304</i><br></h1>
-- 👀 I’m interested in <b>Java</b></br>
-- 🌱 I’m currently learning <b>Javascript</b></br>
-- 💞️ I’m looking to collaborate on <i>nothing for now</i></br>
-- 😸 An avid <b>reader</b> & <i>bibliophile</i></br>
-- 📫 How to reach me?<i> discord:</i><b> ɮօօӄ_ɖʀąɢօռϩӠ𐐄𝟰#0781</b></br>
-- ⚠️Anti-social tendencies <b>beware</b></br>
+    <h1><pre>                    👋 Hi, I’m <i>bookdragon2304</i></pre></h1><tt>
+    - 👀 I’m interested in <b>Java</b><br></tt><br><tt>
+- 🌱 I’m currently learning <b>Javascript</b></br></tt><br><tt>
+- 💞️ I’m looking to collaborate on <i>nothing for now</i></br></tt><br><tt>
+- 😸 An avid <b>reader</b> & <i>bibliophile</i></br></tt><br><tt>
+- 📫 How to reach me?<i> discord:</i><b> ɮօօӄ_ɖʀąɢօռϩӠ𐐄𝟰#0781</b></br></tt><br><tt>
+- ⚠️Anti-social tendencies <b>beware</b></br></pre></tt>
   </body>
   </html>
 <!---
